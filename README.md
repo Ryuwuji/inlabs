@@ -22,4 +22,11 @@ Atualmente, as seguintes linguagens estão disponíveis.
 
 
 ### Contribua
+
 Ajude o INLABS desenvolvendo este mesmo script em outras linguagens e cresça a comunidade.
+
+### Relatos de indisponibilidade
+
+Reforço que este projeto se trata de um exemplo de implementação para download automatizado das edições do Diário Oficial da União.
+O relato de ISSUES deve se restringir a bugs e/ou problemas detectados nesta implementação aqui disponível.
+Eventuais indisponibilidades do serviço que não tenham relação com esta implementação (por exemplo, no caso do servidor estar fora do ar) devem ser reportadas na [Central de Atendimento da Imprensa Nacional](https://centraldeservicosti.in.gov.br/citsmart/webmvc/login) para que sejam tempestivamente endereçadas.
