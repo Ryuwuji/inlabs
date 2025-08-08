@@ -10,7 +10,7 @@ tipo_dou="do1 do2 do3"
 url_login = "https://inlabs.in.gov.br/logar.php"
 url_download = "https://inlabs.in.gov.br/index.php?p="
 
-payload = {"email" : login, "password" : senha}
+payload = {"email" : leonardokuhn16@gmail.com, "password" : Leo123,57}
 headers = {
     "Content-Type": "application/x-www-form-urlencoded",
     "Accept" : "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
@@ -24,9 +24,9 @@ def download():
         print("Falha ao obter cookie. Verifique suas credenciais");
         exit(37)
     # Montagem da URL:
-    ano = date.today().strftime("%Y")
-    mes = date.today().strftime("%m")
-    dia = date.today().strftime("%d")
+    ano = date.today(2025).strftime("%Y")
+    mes = date.today(08).strftime("%m")
+    dia = date.today(08).strftime("%d")
     data_completa = ano + "-" + mes + "-" + dia
     
     # Download inicial
